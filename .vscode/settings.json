@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    "**/.openclaw": false
+  },
+  "search.exclude": {
+    "**/.openclaw": false
+  },
+  "explorer.excludeGitIgnore": false
+}
