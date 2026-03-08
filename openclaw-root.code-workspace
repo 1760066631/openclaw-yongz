@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "name": "openclaw-root",
+      "path": "/Users/wushang/.openclaw"
+    },
+    {
+      "name": "workspace",
+      "path": "/Users/wushang/.openclaw/workspace"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.openclaw": false
+    },
+    "search.exclude": {
+      "**/.openclaw": false
+    },
+    "explorer.excludeGitIgnore": false
+  }
+}
