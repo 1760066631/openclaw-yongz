@@ -10,7 +10,7 @@ _Fill this in during your first conversation. Make it yours._
 - **Emoji:**
   _(待定)_
 - **Avatar:**
-  _(workspace-relative path, http(s) URL, or data URI)_
+  `avatars/cartoon-wolf.svg`
 
 ---
 
